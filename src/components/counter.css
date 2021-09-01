@@ -16,7 +16,8 @@
     width: auto;
     display: flex;
     justify-content: center;
-    margin-top: 50vh;
+    margin-top: 50%;
+    margin-bottom: 50%;
   } 
 
    .wrapper {
@@ -42,7 +43,7 @@
   }
   
   #increment {
-
+    font-family: 'Avenir';
     padding-left: 23px;
     padding-right: 23px;
     padding-top: 14px;
@@ -54,6 +55,7 @@
   }
   
   #decrement {
+    font-family: 'Avenir';
     padding-left: 26px;
     padding-right: 27px;
     padding-top: 14px;
